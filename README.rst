@@ -2,6 +2,6 @@
    :target: https://discord.com/invite/dN45fFT
    :alt: Discord szerver meghívó
    
-**FightMan01bot**
+**SlapY**
 ==========
 Kérek mindenkit, hogy hibákat az "Issues" fülön jelentsen!
